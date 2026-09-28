@@ -1,0 +1,8 @@
+{
+  "name": "SABDA BK SPANJU - SMPN 7 Pasuruan",
+  "description": "Sistem Administrasi BK Digital dan Akuntabel (SABDA BK SPANJU) UPT SMP Negeri 7 Pasuruan. Data Tertata, Layanan Berkualitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
